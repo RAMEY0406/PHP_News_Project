@@ -2,7 +2,7 @@
 <?php include('function.php'); ?>
 <html lang="en">
     <head>
-        <title>CMS News</title>
+        <title>The CamNews</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
@@ -26,12 +26,13 @@
         <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
         <!-- @funcy box -->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css" />
+        <link rel="icon" href="./assets/image/The Cam News.png" type="image/x-icon" />
     </head>
 <body>
     <header>
         <div class="container">
             <div class="logo">
-                <a href="index.php">
+                <a href="index.php"> 
                     <!-- <h3>JONGDENG NEWS</h3> -->
                     <img src="../admin/assets/Image-Logo/<?php GetLogo('header') ?>" style="object-fit:cover;" width="216px" height="70px" alt="">
                 </a>
