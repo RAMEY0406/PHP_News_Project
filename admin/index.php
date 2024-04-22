@@ -12,7 +12,6 @@
                             <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                     <div class="modal-dialog">
                                         <div class="modal-content">
-                                            
                                             <div class="modal-body">
                                                 Do you want sure Log+out your account?
                                             </div>
@@ -22,9 +21,6 @@
                                                     <button type="submit" name="btn-logout" class="btn btn-danger">Yes</button>
                                                 </div>
                                             </form>
-
-
-
                                         </div>
                                     </div>
                                 </div>

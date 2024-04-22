@@ -19,7 +19,7 @@
             <label>Password</label>
             <input type="password" class="box" name="password">
             <label for="file">Profile</label>
-            <input type="file" name="profile" style="margin:20px; 0;">
+            <input type="file" name="profile" style="margin:20px;">
             <div class="wrap-btn">
                 <a href="login.php" class="btn">Back To Login</a>&ensp;
                 <input type="submit" class="btn" name="btn_register" value="SIGN UP">

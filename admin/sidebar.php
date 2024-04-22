@@ -47,7 +47,7 @@ include('function.php');
                         </div> -->
                         <div class="wrap-center">
                             <img src="./assets/admin-image/<?php echo $row['profile'] ?>" alt="" width="40px" height="40px">
-                            <h6>Welcome Admin <?php echo $row['name']; ?></h6>
+                            <h6><?php echo $row['name']; ?></h6>
                         </div>
                         <div class="wrap-bottom">
                             <ul>

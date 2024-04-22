@@ -8,7 +8,7 @@
                 <div class="col-10">
                     <div class="content-right">
                         <div class="top">
-                            <h3>Update Sport News</h3>
+                            <h3>Update News</h3>
                         </div>
                         <div class="bottom">
                             <figure>

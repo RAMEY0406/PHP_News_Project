@@ -4,7 +4,7 @@
                 <div class="col-10">
                     <div class="content-right">
                         <div class="top">
-                            <h3>Add Sport News</h3>
+                            <h3>Add Logo</h3>
                         </div>
                         <div class="bottom">
                             <figure>
